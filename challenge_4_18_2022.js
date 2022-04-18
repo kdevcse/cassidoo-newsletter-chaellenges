@@ -1,3 +1,5 @@
+//Challenge: Given an unsorted array of integers and a number n, find the subarray of length n that has the largest sum.
+
 function largestSubarraySum(arr, subarrLength) {
   let largestSum = 0;
   let largestSumArray = [];
