@@ -21,8 +21,8 @@ function largestSubarraySum(arr, subarrLength) {
 }
 
 //Program start
-const arrInput = [3,1,4,1,5,9,2,6,1,2,3]; //Modify
-const subArrLengthInput = 4; //Modify
+const arrInput = [3,1,4,1,5,9,2,6]; //Modify
+const subArrLengthInput = 3; //Modify
 
 const largestSubarray = largestSubarraySum(arrInput, subArrLengthInput);
 
